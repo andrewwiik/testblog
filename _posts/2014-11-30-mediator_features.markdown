@@ -8,7 +8,7 @@ image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
 #Ben Anderson
 
-I am the President of the 2014-2015 Student Council for thw Vernon Township High School, I am currently a senior are 17 years of age
+>I am the President of the 2014-2015 Student Council for thw Vernon Township High School, I am currently a senior are 17 years of age
 
 #Header Formats
 #Header1
