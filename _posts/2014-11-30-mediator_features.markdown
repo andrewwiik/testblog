@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Mediator Features"
+title:  "About Me"
 date:   2014-11-30 14:34:25
 categories: mediator feature
 tags: featured
 image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
 ---
-#Mediator Formats and CSS features
+#Ben Anderson
 
-Examples for different formats and css features
+I am the President of the 2014-2015 Student Council for thw Vernon Township High School, I am currently a senior are 17 years of age
 
 #Header Formats
 #Header1
